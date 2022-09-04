@@ -30,4 +30,4 @@
 
 
 
-
+![patika.dev adresim](https://app.patika.dev/fatihkutukcu)
